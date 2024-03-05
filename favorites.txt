@@ -1,3 +1,9 @@
+foods:
 mutton biriyani
 idhiyappam paaya
 finger fish
+
+movies:
+manmadhan
+vallavan
+panchathanthiram
